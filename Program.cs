@@ -36,3 +36,4 @@ Console.WriteLine("----------------------------------------");
 Console.WriteLine($"Összesített bevétel:{osszeg} Ft");
 Console.WriteLine($"Napi átlagbevétel:{atlag} Ft");
 Console.WriteLine($"Heti státusz: {statusz}");
+Console.WriteLine("========================================");
